@@ -1,5 +1,5 @@
 # Capstone Engagement
-The objective of this project was to act in a Red Team vs. Blue Team as both the role of both pentester and SOC analyst. The knowledge of the following skills and tools were used:
+The objective of this project was to act in a Red Team vs. Blue Team scenario as both the role of both pentester and SOC analyst. The knowledge of the following skills and tools were used:
 
 - Penetration testing with Kali Linux.
 - Penetration testing with Kali Linux.
